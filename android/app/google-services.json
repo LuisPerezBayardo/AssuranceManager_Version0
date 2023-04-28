@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731104347232",
+    "firebase_url": "https://assurance-manager-default-rtdb.firebaseio.com",
+    "project_id": "assurance-manager",
+    "storage_bucket": "assurance-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731104347232:android:f9f42d73861f3119cb6f05",
+        "android_client_info": {
+          "package_name": "mx.developerdreams.assurances.assurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731104347232-lkubjjvnndkjhvsu1iom62odgk7min0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.developerdreams.assurances.assurance",
+            "certificate_hash": "38351329ca1b9d5688339602f028e4eec5318f84"
+          }
+        },
+        {
+          "client_id": "731104347232-83tgq8gv7vqa51r44l2pa5rngpcjhv9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qQDFr1V3kREKQGAHn2b5a0O0BZSMlkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731104347232-83tgq8gv7vqa51r44l2pa5rngpcjhv9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
